@@ -20,3 +20,10 @@
 # Go workspace file
 go.work
 go.work.sum
+
+# Draw io files
+*.drawio
+*.crswap
+
+# MacOs
+*.DS_Store
