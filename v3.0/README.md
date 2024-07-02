@@ -40,7 +40,7 @@
 
 ### Базы данных
 
-Here is the markdown table with the information in Russian and using the original names:
+Выбор баз данных от соответствующих критериев представлен в таблице.
 
 |Название сервиса|Критерии выбора|Тип базы данных|
 |---|---|---|
